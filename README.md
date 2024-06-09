@@ -1,6 +1,6 @@
 # hg_2_alfa
 
-## hack-pull-request-1 Alfa
+## hack-pull-request-2 Alfa
 
 ### integrantes del team 9:
 
