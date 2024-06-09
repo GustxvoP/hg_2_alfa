@@ -1,6 +1,6 @@
 # hg_2_alfa
 
-## hack-pull-request-1 Alfa = Alfa
+## hack-pull-request-1 Alfa
 
 ### integrantes del team 9:
 
